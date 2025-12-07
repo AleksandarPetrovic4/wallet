@@ -18,11 +18,11 @@ In swagger, you can authenticate with any username and password and resulting Be
 #### In Virtual Environment
 Create virtual env (you'll need python >= 3.10):
 ```
-python -m venv .
+python -m venv venv
 ```
 Activate environment:
 ```
-source .venv/bin/activate
+source venv/bin/activate
 ```
 Install dependencies:
 ```
